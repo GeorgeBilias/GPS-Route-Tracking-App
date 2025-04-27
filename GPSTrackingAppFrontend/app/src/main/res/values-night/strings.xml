@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_tracker">ACTIVITY TRACKER</string>
+    <string name="show_statistics">Show Statistics</string>
+    <string name="upload">upload</string>
+    <string name="app_logo">app logo</string>
+    <string name="back_button">back button</string>
+    <string name="route_statistics"><u>ROUTE STATISTICS</u></string>
+    <string name="white">white</string>
+    <string name="textview">TextView</string>
+    <string name="fetching_results">Fetching Results..</string>
+    <string name="statistics"><u>STATISTICS</u></string>
+</resources>
